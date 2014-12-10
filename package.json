@@ -1,0 +1,17 @@
+{
+  "name": "Mp3PlayerSample",
+  "version": "0.0.0",
+  "description": "mp3 player sample",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.10.4",
+    "require": "^2.4.17",
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sergio Castillo",
+  "license": "ISC"
+}

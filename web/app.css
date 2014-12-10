@@ -1,0 +1,21 @@
+.stream {
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid #BBBBBB;
+    padding: 5px;
+}
+
+.stream .songImg {
+    width: 100%;
+    height: auto;
+}
+
+.stream input[type=range] {
+    width: 80%;
+    float: right;
+}
+
+.stream button {
+    width: 100%;
+    font-size: larger;
+}
